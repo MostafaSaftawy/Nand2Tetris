@@ -6,7 +6,7 @@ project-2: use these gates to build (Half Adder- Full Adder - Up Counter - ALU )
 project-3: build (flip-flip) then build (register) to build a (RAM) module.
 project-4: write some assembly code to be familiar with simple CPU instructions.
 project-5: build (memory) module and (CPU) module and integrate between them in one module.
-- all these modules wrote in HDL language developed by the instructors to be easy to teach.
+all these modules wrote in HDL language developed by the instructors to be easy to teach.
 project-6: write an assembler in hack language which is developed by the instructor to be easy to teach.
 project-7,8: write VM Translator to implement (arithmetic and logic commands, memory segments commands, Branching commands, and function commands).
 project-9: some application with jack language to be familiar with it.
